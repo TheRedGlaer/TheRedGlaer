@@ -11,7 +11,9 @@ Please use this program for work only!
 
 1.git clone  https://github.com/TheRedGlaer/TheRedGlaer.git
 
-2.python TheRedGlaer.py
+2.cd TheRedGlaer
+
+3.python TheRedGlaer.py
 
 3.Enter an option
 
